@@ -1,1 +1,1 @@
-[https://github.com/snakem982/proxypool/](url)
+https://github.com/snakem982/proxypool/
