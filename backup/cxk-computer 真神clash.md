@@ -1,0 +1,1 @@
+真神链接  https://gist.githubusercontent.com/CXK-Computer/3ba897b4a616950a5ec83f708e098535/raw/clash.yaml
